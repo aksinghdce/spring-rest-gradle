@@ -10,8 +10,8 @@ In order to conveniently get started with spring boot:
 5. Start with a getting started project n spring boot from file->new menu
 6. You can choose to use command line:
   In this case you have 2 more choices:
-    1. Maven: create a pom.xml file. Run "mvn compile", "maven package"
-    2. Gradel: create build.gradle file. Run "gradle build", "gradle wrapper", "./gradlew build", edit build.gradle to 
+    1. [Maven](https://spring.io/guides/gs/maven/): create a pom.xml file. Run "mvn compile", "maven package"
+    2. [Gradel](https://spring.io/guides/gs/gradle/): create build.gradle file. Run "gradle build", "gradle wrapper", "./gradlew build", edit build.gradle to 
     add application rule and the default main class, "./gradlew run"
     
 gradle buildship is preferred over gradle sts which in turn is preferred over maven. Why?
